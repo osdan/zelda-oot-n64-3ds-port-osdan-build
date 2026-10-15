@@ -21,8 +21,10 @@ Para jugar esta build de manera correcta en tu consola, asegúrate de cumplir co
 
 1. **📦 El Ejecutable (.cia):** Instala el archivo `oot.cia` disponible en la sección de **Releases** de este repositorio utilizando **FBI**.
    * 📱 **Código QR de Descarga Directa:**
-     
-     *[Imagen del QR]*
+   <p align="center">
+      <img width="333" height="320" alt="image" src="https://github.com/user-attachments/assets/9e38ff79-2c6d-41f4-bdda-2322de4ecde6" />
+    </p>
+
    
 2. **💾 La ROM Descomprimida (Asset Pipeline):** *Disponible en mi publicación de Instagram* ➡️ `[url_ig_osdan]`
    * Copia el archivo de recursos generado `baserom-decompressed.z64` (obtenido legítimamente mediante la descompresión del cartucho NTSC-U 1.0) en la siguiente ruta exacta de tu tarjeta SD:
