@@ -52,10 +52,10 @@ Para jugar esta build de manera correcta en tu consola, asegúrate de cumplir co
 
 Para ver más contenido de tecnología, guías de hardware, optimización de setups y actualizaciones de este proyecto, búscame en mis plataformas oficiales de **Xmartcom / Osdan**:
 
-* **📸 Instagram:** [@xmartcom](https://www.instagram.com/xmartcom/)
+* **📸 Instagram:** [@el_osdan](https://www.instagram.com/el_osdan/)
 * **🎬 TikTok:** [@el_osdan](https://www.tiktok.com/@el_osdan)
 * **📺 YouTube:** [Xmartcom Canal Oficial](https://www.youtube.com/@Xmartcom)
-* **🔵 Facebook:** [Xmartcom Comunidad](https://www.facebook.com/profile.php?id=61566447771993)
+* **🔵 Facebook:** [El Osdan](https://www.facebook.com/profile.php?id=61566447771993)
 
 ---
 
