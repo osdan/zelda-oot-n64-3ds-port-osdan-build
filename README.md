@@ -26,8 +26,8 @@ Para jugar esta build de manera correcta en tu consola, asegúrate de cumplir co
     </p>
 
    
-2. **💾 La ROM Descomprimida (Asset Pipeline):** *Disponible en mi publicación de Instagram* ➡️ `[url_ig_osdan]`
-   * Copia el archivo de recursos generado `baserom-decompressed.z64` (obtenido legítimamente mediante la descompresión del cartucho NTSC-U 1.0) en la siguiente ruta exacta de tu tarjeta SD:
+2. **💾 La ROM Descomprimida (Asset Pipeline):** ➡️ https://drive.google.com/drive/folders/1YZdwW6gOii35hnDgEc3wzJ9GuSNY8rjp?usp=drive_link
+   * Copia el archivo de recursos generado `baserom-decompressed.z64` (obtenido legítimamente mediante la descompresión del cartucho original NTSC-U 1.0) en la siguiente ruta exacta de tu tarjeta SD:
      ```text
      sdmc:/3ds/oot/baserom-decompressed.z64
      ```
